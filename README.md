@@ -1,8 +1,9 @@
 # Pac-Man AI
 
-## Overview
+#### Overview
 Used a variety of techniques to train several Pac-Man AIs including Depth-Limited Minimax, Reinforcement Learning, Bayes’ Nets, Particle Filtering, and Neural Networks. Focus on the foundational concepts of AI which underly real-world applications.
 
+## Projects
 ### Search
 Implementation of depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pac-Man world.
 
